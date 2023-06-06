@@ -26,4 +26,4 @@ class MyClient(discord.Client):
             await guild.system_channel.send(mensagem)
 
 client = MyClient(intents=intents)
-client.run('MTExNTM4MjA2NDY4NzA5OTkwNQ.GdBYaR.sDWI3-_3aoVMcsYvVcpqcj2uUzDBTrM02Zxvek')
+client.run('') #adicionar o token do bot
